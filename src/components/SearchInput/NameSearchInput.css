@@ -1,0 +1,9 @@
+.name-input{
+    height: 30px;
+    width: 300px;
+    border-radius: 5px;
+}
+
+.name-search-wrapper{
+    margin: 15px;
+}
